@@ -1,0 +1,11 @@
+duckduckgo_search
+Pillow
+pydantic
+pyprojroot
+python-dotenv
+PyYAML
+streamlit
+streamlit_chat
+langchain
+langchain_groq
+langchain_core
